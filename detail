@@ -1,0 +1,4 @@
+-->dev dependenies or dependencies diff : dev dependencies it can't push into production
+-->express version they don't know how to handle post api request so we have to require a body parse
+-->urlencoded when user make an extra space in url part then browser replace it by dummy data like %09 this thing will be handled by urlencoded
+-->url based routing  
